@@ -7,5 +7,7 @@ Part of the problem with Goodreads' recommendations is that it seems to overweig
 Therefore in this approach, the recommendations are only based off of a user's top 3 favorite books.
 </br>
 I used Langchain and Streamlit to create this project.
+</br>
+In the demo I inputed some of my favorite books (I have a hard time picking just 3) and as it turns out the recommended books are all books I have read before and enjoyed. This tool also provides an explanation for the recommendations and shows how they connect to the three favorites. One downside is that since the model is not aware of which books a person has already read, they may end up recommending books that aren't new (as was the case in my example).
 
 ## Video Demo:
