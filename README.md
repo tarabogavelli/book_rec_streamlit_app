@@ -15,3 +15,9 @@ I used Langchain and Streamlit to create this project.
 In the demo I inputed some of my favorite books (I have a hard time picking just 3) and as it turns out the recommended books are all books I have read before and enjoyed. This tool also provides an explanation for the recommendations and shows how they connect to the three favorites. One downside is that since the model is not aware of which books a person has already read, they may end up recommending books that aren't new (as was the case in my example).
 
 ## Video Demo:
+
+https://github.com/tarabogavelli/book_rec_streamlit_app/assets/87334044/f5d28afa-05f3-4dee-8ebe-72149cbe01c5
+
+<img width="787" alt="Screenshot 2023-08-31 at 12 04 27 AM" src="https://github.com/tarabogavelli/book_rec_streamlit_app/assets/87334044/aa26e0ad-dd3a-4e55-bc3a-019222116e27">
+<img width="723" alt="Screenshot 2023-08-31 at 12 04 21 AM" src="https://github.com/tarabogavelli/book_rec_streamlit_app/assets/87334044/3b5ae9f0-f2f9-4c78-a8c4-b17b322f9878">
+
