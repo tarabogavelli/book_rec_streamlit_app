@@ -17,6 +17,8 @@ In the demo I inputed some of my favorite books (I have a hard time picking just
 ## Video Demo:
 
 https://github.com/tarabogavelli/book_rec_streamlit_app/assets/87334044/f5d28afa-05f3-4dee-8ebe-72149cbe01c5
+
+</br>
 <img width="760" alt="Screenshot 2023-08-31 at 12 05 43 AM" src="https://github.com/tarabogavelli/book_rec_streamlit_app/assets/87334044/3639d945-ccbd-421a-b7e2-25538c99acb1">
 <img width="777" alt="Screenshot 2023-08-31 at 12 05 57 AM" src="https://github.com/tarabogavelli/book_rec_streamlit_app/assets/87334044/8f5ed994-145b-4f4e-a6f4-d7d68f59fb6c">
 
